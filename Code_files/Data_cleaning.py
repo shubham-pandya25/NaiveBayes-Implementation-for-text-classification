@@ -66,33 +66,3 @@ df.to_csv('new_bbc.csv') # now it is ready to use
 
 df.head(2)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Commented out IPython magic to ensure Python compatibility.
-
-import pandas as pd
-import numpy as np
-from matplotlib import pyplot as plt
-# %matplotlib inline
-from nltk.stem import PorterStemmer 
-from nltk.tokenize import word_tokenize 
-import seaborn as sns
-
-data = pd.read_csv('bbc.csv', index_col = [0])
-#data.set_index('type', inplace = True)
-
-data.head()
