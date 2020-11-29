@@ -1,10 +1,11 @@
 ---- Naive Bayes Implementation for Text Classification----
 **************************************************************************************************
 @ authors :
-Akash Apturkar
-Amruth Anand
+Akash Apturkar,
+Amruth Anand,
+Nidhi Kulkarni,
 Shubham Pandya
-Nidhi Kulkarni
+
 -----------------------
 Steps for installing :-
 -----------------------
